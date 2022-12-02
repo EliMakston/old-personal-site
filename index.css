@@ -46,7 +46,7 @@ body {
     padding: 50px 20px;
 }
 
-a, a:visited {
+a, a:visited, a:active {
     text-decoration: solid;
     color: white;
 }
