@@ -39,7 +39,7 @@ body {
     transition: 1s;
 }
 
-#html:hover , #css:hover, #about:hover {
+#projects:hover , #pictures:hover, #about:hover {
     opacity: 100%;
     cursor: pointer;
     transition: 500ms;
@@ -51,7 +51,7 @@ a, a:visited, a:active {
     color: white;
 }
 
-#html:active, #css:active, #about:active {
+#projects:active, #pictures:active, #about:active {
     opacity: 85%;
     font-size: 70px;
 }
